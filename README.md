@@ -1,16 +1,18 @@
-# Config
+Stripe using PHP APIs
+===================
+----------
 
-Complete config.php with your API Keys
 
-## Requirements
+*Config*
+-------------
 
-PHP 5.3.3 and later.
+Complete the config.php file with your API Keys and import 3 files in the folder "SQL" to your database. 
 
-## Documentation
+Replace the IDs for the PDO connexion and let's go !
 
-Please see https://stripe.com/docs/api for up-to-date documentation.
+> **Note:**
 
-## Sources
+> - You can edit my PHP code and the design that are very basic.
+> - Do not hesitate to make pull requests to improve my code because I'm a beginner in PHP.
 
-https://github.com/stripe/stripe-php
-https://github.com/myg0v/Simple-Bootstrap-Stripe-Payment-Form
+
